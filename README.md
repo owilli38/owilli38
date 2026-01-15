@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://github.com/owilli38/owilli38/blob/main/Image_Banner.png">
+<img src="https://github.com/owilli38/owilli38/blob/main/ImageBanner.png">
 
   
 <!--
