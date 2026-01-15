@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{owilli38}/count.svg" alt="Visitor's Count">
-</div>
+<img src="https://github.com/owilli38/owilli38/blob/main/Image_Banner.png">
 
   
 <!--
