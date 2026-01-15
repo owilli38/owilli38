@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>Visitor count</p>
-  ![Visitor Count](https://profile-counter.glitch.me/owilli38/count.svg)
+  <img src="https://profile-counter.glitch.me/owilli38/count.svg" alt="Visitor's Count">
 </div>
 
   
