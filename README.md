@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-<img src="https://github.com/owilli38/owilli38/blob/main/ImageBanner.png">
+<img src="https://github.com/owilli38/owilli38/blob/c45b06504cc0dac51f0ad463aade9b5ed787e8df/Image%20Banner)">
 
-  
 <!--
 **owilli38/owilli38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
