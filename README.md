@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-<img src="https://github.com/owilli38/owilli38/blob/5e1b94e4f2824909e15e13835720ae8b02e29406/Image%20Banner">
-
+<img src="https://raw.githubusercontent.com/owilli38/owilli38/main/Image%20Banner" alt="Image Banner">
 
 
 <!--
