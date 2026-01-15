@@ -1,6 +1,6 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/owilli38/owilli38/main/Image%20Banner" alt="Image Banner">
 
+![Image Banner](./Image%20Banner)
 
 <!--
 **owilli38/owilli38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
